@@ -1,4 +1,4 @@
-## Token Creation
+# Token Creation
 
 ## Description
 Coding a smart contract to create your own token on a local HardHat network. 
